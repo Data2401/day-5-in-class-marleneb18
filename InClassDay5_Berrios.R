@@ -106,6 +106,7 @@ sum_round <- sum(round_1 + round_2)
 
 # Print out both variables and compare. Are they the same?
 
+print(round_1 == round_2)
 
 median(numbers)
 length(numbers)
